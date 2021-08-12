@@ -2,7 +2,7 @@
 A Simple Roadmap for learn Data Scientist with Python Language
 
 ## The Learn Journey is about 4 weeks
-it's juts for understanding and learn how to coding pandas, matplotlib, seaborn, also unsupervised k-means machine learning in Python 3
+it's juST for understanding and learn how to coding pandas, matplotlib, seaborn, also unsupervised k-means machine learning in Python 3
 
 WEEK 1
 
